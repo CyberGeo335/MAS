@@ -1,5 +1,5 @@
 Task4 - Snowboards
 
-Task5 -
+Task5 - Fighters and aircraft carriers
 
-Task6 -
+Task6 - sells GPU 
